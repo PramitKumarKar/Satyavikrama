@@ -15,18 +15,26 @@ const About = () => {
            We provide a wide range of services for freshers as well as experienced people thriving in the industry.
           </p>
           <p className="text-xl mt-4 font-semibold">
-          1.	MANAGED HR – MANPOWER / STAFFING SERVICES  – INDIA & ABROAD  - EMPLOYMENT SERVICE CONSULTANTS. <br />
-            2.	SOFTWARE  SUPPORT - SAP / MICROSOFT NAVISION / ERP – IMPLEMENTATION – MAINTENANCE – CUSTOMIZATION.  <br />
-            3.	COMPUTER HARDWARE – SALES - IMPLEMENTATION & SUPPORT CENTRE.  <br />
-            4.	GST SUVIDHA KENDRA.  <br />
-            5.	INCOME TAX CONSULTANTS. <br />
-            6.	LAW - CIVIL / CRIMINAL LEGAL ADVISORS – CONSULTANTS. <br />
-            7.	FINACIAL CONSULTANTS FOR PROJECTS – FACTORIES / REAL ESTATE / HOTELS ETC.<br />
-            8.	HIRE  PROFESSIONALS  FOR – CEMENT INDUSTRY & STEEL INDUSTRY 
-            LARGE / MEDIUM SCALE INDUSTRIES -  CONSULTANT ENGINEERS – MECHANICAL / ELECTRICAL / PROCESS / QUALITY CONTROL / IT / MATERIALS MANAGEMENT – TO BE HIRED FOR HIGH END  TECHNICAL CONSULTANTS & ON SITE / OFF SITE SOLUTIONS. <br />
-            9.	PROFESSIONALS -  DOCTORS -  CONSULTATION SERVICES OVER PHONE / VIDEO CALL. <br />
-            10.	ISO CONSULTANTS – ISO CERTIFICATION & TRAINING. <br />
-            11.	HOTEL BOOKING – 3 STAR AND ABOVE  PROPERTIES  – LOCATION KOLKATA / DIGHA / MANDERMONI / PURI  / JAIPUR. <br />
+            1. MANAGED HR – MANPOWER / STAFFING SERVICES  – 
+            India & Abroad  - EMPLOYMENT SERVICE CONSULTANTS <br />
+
+            2. SOFTWARE SUPPORT - SAP / MICROSOFT NAVISION / ERP – Implementation – Maintenance – Modification / Customization of the Current Software as per Company or Personal Use. <br />
+
+            3. COMPUTER HARDWARE – For Purchase of Corporate Servers or Home Computer for Personal Use. <br />
+
+            4. ISO CONSULTANTS – ISO CERTIFICATION & TRAINING <br />
+
+            5. GST SUVIDHA KENDRA – All GST related Services will be provided by Online & Offline support. <br />
+
+            6. INCOME TAX CONSULTANTS - All GST & Income Tax related Services.
+            LAW - CIVIL / CRIMINAL LEGAL ADVISORS – CONSULTANTS
+            FINACIAL CONSULTANTS FOR PROJECTS – For Project Establishing of FACTORIES / REAL ESTATE / HOTELS ETC. Project Specialized DPR with Financial Assistance Support. <br />
+
+            7. HIRE PROFESSIONALS FOR – CEMENT INDUSTRY & STEEL INDUSTRY LARGE / MEDIUM SCALE INDUSTRIES -  CONSULTANT ENGINEERS – MECHANICAL / ELECTRICAL / PROCESS / QUALITY CONTROL / IT / MATERIALS MANAGEMENT – TO BE HIRED FOR HIGH END TECHNICAL CONSULTANTS & ON SITE / OFF SITE SOLUTIONS.
+            PROFESSIONALS - DOCTORS CONSULTATION SERVICES OVER PHONE / VIDEO CALL. <br />
+
+            8. HOTEL BOOKING – 3 STAR AND ABOVE  PROPERTIES  – LOCATION KOLKATA / DIGHA / MANDERMONI / PURI  / JAIPUR 
+
 
           </p>
         </div>

@@ -15,17 +15,21 @@ const About = () => {
             Our team consists of experienced and specialised individuals from different fields of the industry.
           </p>
           <p className="text-xl mt-4 font-semibold">
-          1.	Mr. Tariang Massar – Managing Director Massar Cements Pvt. Ltd. <br /> 
-2.	Mr. Sidharth Biswas – Project Civil Consultant <br />
-3.	Mr. Tapan Kumar Roy – Director Project – Cement Plant & Power Plant  <br />
-4.	Mr. Prasenjit Sikder – IT Technical Consultant – SAP  <br />
-5.	Mr. Niladri Ray Chaudhury –  IT Consultant (Software & Hardware) <br />
-6.	Mr. Malay Kumar Ghosh – Electrical & Instrumentation Consultant <br />
-7.	Mr. Samaresh Dutta - GM - Electrical & Instrumentation Consultant <br />
-8.	Mr. T. K. Sarkar – Financial Consultant <br />
-9.	Mr. Vikram Sharma – Chartered Accountant <br />
-10.	Mr. Virendra Singh Sekhawat – Hotel Management Consultant <br />
-11.	Mr. Indranil Sarkar – Legal Consultant <br />
+          1.	Mr. Tariang Massar – Director Massar Cements Pvt. Ltd.  <br />
+          2.	Mr. Vipin Dwivedi – IT Functional -SAP & ERP Consultant <br />
+          3.	Mr. Sidharth Biswas – Project Civil Consultant <br />
+          4.	Mr. Tapan Kumar Roy – Director Project – Cement Plant & Power Plant  <br />
+          5.	Mr. Prasenjit Sikder – IT Technical Consultant – SAP  <br />
+          6.	Mr. Niladri Ray Chaudhury –  IT Technical Consultant  <br />
+          7.	Mr. Malay Kumar Ghosh – Consultant Electrical & Instrumentation Consultant <br />
+          8.	Mr. Samaresh Dutta – Consultant Electrical & Instrumentation Consultant. <br />
+          9.	Mr. T. K. Sarkar – Financial Consultant <br />
+          10.	Mr. Vikram Sharma – Chartered Accountant <br />
+          11.	Mr. Virendra Singh Sekhawat – Hotel Management Consultant <br />
+          12.	Mr. Indranil Sarkar – Supreme / High Court Legal Consultant <br />
+          13.	Mr. John Bosco Anthony – Consultant Materials Management <br />
+          14.	Dr. Neela Dutta Gupta - Online Meeting by What’s App Video or Audio Call  / Zoom Meeting /  Google Meet. <br />
+
           </p>
         </div>
 

@@ -29,7 +29,7 @@ const About = () => {
            <p className="text-xl font-semibold mt-2">
            Email: consultancy.satyavikrama@gmail.com <br />
            Mobile & WhatsApp: +91 8794660816 <br />
-           Website: To be named 
+           Website: https://satyavikramaconsultancyprivatelimited.vercel.app/
            </p>
         </div>
         <div className="h-fit w-fit bg-gray-600 rounded-md bg-clip-padding backdrop-filter backdrop-blur-xl bg-opacity-40 border border-gray-100 mt-20">
